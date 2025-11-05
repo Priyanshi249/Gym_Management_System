@@ -28,7 +28,7 @@ Dashboard
 ![image alt](https://github.com/Priyanshi249/Gym_Management_System/blob/main/Dashboard.png?raw=true)
 
 
-This project was a rewarding hands-on experience in:
+✍️ # This project was a rewarding hands-on experience in:
 
 💻 Web Development
 🗄️ Database Management
