@@ -23,12 +23,10 @@ A web-based Gym Management System designed to simplify gym operations by managin
 PHP, MySQL, JavaScript, HTML & CSS, DataTables.
 
 # 📷 Screenshots
-
-Login Page
-
 Dashboard
 
-# 💡 Key Learnings
+![image alt](https://github.com/Priyanshi249/Gym_Management_System/blob/main/Dashboard.png?raw=true)
+
 
 This project was a rewarding hands-on experience in:
 
